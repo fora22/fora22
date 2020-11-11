@@ -5,7 +5,7 @@
 **스윙**에 살고요. **수원**을 춥니다.
 
 ## Profile Image
-이미지 출처는 [여기](https://www.instagram.com/_hop.step.jump/?hl=ko)입니다. 아는 지인 분의 계정인데 관심있으면 한번 들렸다 가주세요.
+이미지 출처는 [여기](https://www.instagram.com/_hop.step.jump/?hl=ko)입니다. 관심있으면 한번 들렸다 가주세요.
 
 `#_hop.step.jump`
 
