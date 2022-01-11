@@ -1,8 +1,6 @@
 # Hi there 👋 It's FoRA
 ## 저는 이런 사람입니다.
 
-**스윙**에 살고요. **수원**을 춥니다. (아..정확히는 **린디합..**)
-
 ## Profile Image
 **이미지 출처는 [여기](https://www.instagram.com/_hop.step.jump/?hl=ko)입니다. 관심있으시면 한번 들렸다 가주세요.**
 
