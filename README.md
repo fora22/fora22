@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fora22)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile Image
-**이미지 출처는 [여기](https://www.instagram.com/_hop.step.jump/?hl=ko)입니다. 관심있으시면 한번 들렸다 가주세요.**
+**[홍보합니다.](https://www.instagram.com/_hop.step.jump/?hl=ko) 관심있으시면 한번 들렸다 가주세요.**
 
 `#_hop.step.jump`
 
